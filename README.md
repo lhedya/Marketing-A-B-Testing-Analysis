@@ -241,6 +241,7 @@ pip install -r requirements.txt
 # 3. Run notebook
 jupyter notebook notebook/AB_testing.ipynb
 
+---
 
 ## 👩‍💻 Author
 

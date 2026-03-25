@@ -240,6 +240,11 @@ pip install -r requirements.txt
 
 # 3. Run notebook
 jupyter notebook notebook/AB_testing.ipynb
+```
+
+Or open directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/YOUR_COLAB_LINK_HERE)
 
 ---
 
@@ -248,7 +253,8 @@ jupyter notebook notebook/AB_testing.ipynb
 **Lhedya Monica Ismon**
 Data Science & Data Analyst Bootcamp — [Dibimbing.id](https://dibimbing.id)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/lhedya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
 
